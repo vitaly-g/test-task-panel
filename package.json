@@ -1,0 +1,21 @@
+{
+  "name": "test-task-panel",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vitaly Gusev",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "jsonwebtoken": "^8.0.1",
+    "lodash": "^4.17.4",
+    "pg": "^7.3.0",
+    "sequelize": "^4.13.3",
+    "sequelize-values": "^1.1.0"
+  }
+}
