@@ -1,6 +1,9 @@
 # test-task-panel
 
-API панели задач:
+## Что это
+API упрощённой панели задач
+
+## API панели задач
 1. Авторизация: POST ('/login'), { login, password }. 
 2. Регистрация: POST ('/register'), { login, password }. 
 3. Получить детали задачи по идентификатору: GET ('/orders/id').
